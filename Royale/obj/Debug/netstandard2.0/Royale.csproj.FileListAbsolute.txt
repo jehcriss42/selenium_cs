@@ -1,9 +1,0 @@
-/Users/jessicatavares/Projects/selenium_cs/Royale/bin/Debug/netstandard2.0/Royale.deps.json
-/Users/jessicatavares/Projects/selenium_cs/Royale/bin/Debug/netstandard2.0/Royale.dll
-/Users/jessicatavares/Projects/selenium_cs/Royale/bin/Debug/netstandard2.0/Royale.pdb
-/Users/jessicatavares/Projects/selenium_cs/Royale/obj/Debug/netstandard2.0/Royale.csprojAssemblyReference.cache
-/Users/jessicatavares/Projects/selenium_cs/Royale/obj/Debug/netstandard2.0/Royale.AssemblyInfoInputs.cache
-/Users/jessicatavares/Projects/selenium_cs/Royale/obj/Debug/netstandard2.0/Royale.AssemblyInfo.cs
-/Users/jessicatavares/Projects/selenium_cs/Royale/obj/Debug/netstandard2.0/Royale.csproj.CoreCompileInputs.cache
-/Users/jessicatavares/Projects/selenium_cs/Royale/obj/Debug/netstandard2.0/Royale.dll
-/Users/jessicatavares/Projects/selenium_cs/Royale/obj/Debug/netstandard2.0/Royale.pdb

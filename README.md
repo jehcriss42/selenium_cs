@@ -5,6 +5,7 @@ Practice using selenium and C#
    
     C# by Microsoft
     PackSharp by Carlos Kidman
+    Vs Code
 
 *2) Setting Up:*
 
@@ -20,6 +21,13 @@ Practice using selenium and C#
         $ dotnet sln add Framework
         $ dotnet sln add Royale
         $ dotnet sln add Royale.Tests
+    
+    Install Selenium NuGet (package) with PackSharp
+
+    Open Command Palette > select PackSharp: Bootstrap Selenium > add to Royale.Tests, our Test Project
+
+    If you open the Royale.Tests.csproj file, you will see that Selenium packages have been added
+    You will also see a _drivers directory is added at the Workspace root
 
     Build the Solution so we know everything is working
 
@@ -32,4 +40,5 @@ Practice using selenium and C#
 *Reference*
 
 Based on: https://github.com/ElSnoMan/from-scripting-to-framework
+
 From Scripting to Framework with Selenium and C# - Test automation University
